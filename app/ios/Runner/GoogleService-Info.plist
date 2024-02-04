@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBGaiMBsFtkbzXXkQOsq_aT6eoU0g17yqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>670121399123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kealym.homeCare</string>
+	<key>PROJECT_ID</key>
+	<string>home-assist-771d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>home-assist-771d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:670121399123:ios:7957103932fdaa6a7787a6</string>
+</dict>
+</plist>
